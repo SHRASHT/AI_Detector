@@ -1,8 +1,23 @@
 # 🔍 AI Deepfake Detector - Streamlit Web App
 
-A user-friendly web interface for detecting AI-generated (deepfake) images using the Meso4 CNN architecture.
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+
+A user-friendly web interface for detecting AI-generated (deepfake) images using the Meso4 CNN architecture with **continuous learning** capabilities.
+
+## 🌟 New Feature: Continuous Learning System
+
+This app now includes a **feedback learning system** that improves over time:
+- 🎯 **User Feedback**: Mark predictions as correct/incorrect
+- 📊 **Learning Statistics**: Track model accuracy in real-time
+- 🧠 **Smart Improvements**: Model learns from your corrections
+- 📈 **Performance Tracking**: Monitor accuracy trends over time
 
 ## 🚀 Quick Start
+
+### 🌐 Online (Streamlit Cloud) - **Recommended**
+**[Try the AI Detector Online →](https://your-app-url.streamlit.app)**
+
+### 💻 Local Installation
 
 ### Method 1: Using the Batch File (Windows)
 1. Double-click `run_app.bat`
